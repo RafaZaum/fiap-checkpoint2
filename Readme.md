@@ -14,7 +14,7 @@ Aplicação Java com container e Banco de dados
 #### Clone
 
 ```
-git clone https://github.com/Gubisss/fiap-checkpoint2.git
+git clone https://github.com/RafaZaum/fiap-checkpoint2.git
 ```
 
 
