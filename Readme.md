@@ -33,13 +33,13 @@ docker build -t checkpoint2 .
 
 ```
 Executar em DEV
-docker run -d -p 8080:8080 -e PROFILE=dev gubisss/fiap-checkpoint2
+docker run -d -p 8080:8080 -e PROFILE=dev RafaZaum/fiap-checkpoint2
 
 Executar em STG
-docker run -d -p 8080:8080 -e PROFILE=stg gubisss/fiap-checkpoint2
+docker run -d -p 8080:8080 -e PROFILE=stg RafaZaum/fiap-checkpoint2
 
 Executar em PRD
-docker run -d -p 8080:8080 -e PROFILE=prd gubisss/fiap-checkpoint2
+docker run -d -p 8080:8080 -e PROFILE=prd RafaZaum/fiap-checkpoint2
 ```
 
 
